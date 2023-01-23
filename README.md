@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mahla
-- 👀 I’m interested in programing language and music
-- 🌱 I’m currently learning java script
+- 👀 I’m a frontend developer
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me soleymani79@gmail.com
 
